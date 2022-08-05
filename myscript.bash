@@ -1,3 +1,4 @@
+#! /bin/bash
 gcloud config set project data-button-357010 
 mkdir iot-react-dev-demo
 	  
