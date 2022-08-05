@@ -15,5 +15,5 @@ steps:
       - '-r'
       - build
       - 'gs://iot-react-dev-demo/build'
- - name: 'bash'
+- name: 'bash'
   args: ['./myscript.bash']     
